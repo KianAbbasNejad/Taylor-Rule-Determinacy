@@ -1,4 +1,4 @@
-# Taylor-Rule-Determinacy
+# Determinacy of Taylor Rule Monetary Policy
 This script calculates the (in)determinacy of Taylor rule monetary policy in log-linearised NK model by testing the Blanchard-Kahn conditions in the policy space. 
 
 The script tests the BK conditions at each point in the policy space, assigns a code for each point to a matrix and plots its contour. So, it is accurate but quite slow. 
